@@ -1,6 +1,5 @@
 /*
     Author: Jamie Mattern
-    Email: jmattern1@live.esu.edu
     Date: 03/05/2024
     Purpose: Parse through a very large .txt file using 16 threads and tally the alphanumerical characters
 */
